@@ -21,6 +21,8 @@ resources.
 query
  use tamil;
  select * from emp_record_table;
+ ![Uploading Screenshot 2025-03-04 215851.png…]()
+
  
  2 Write a query to fetch EMP_ID, FIRST_NAME, LAST_NAME, GENDER, and
 DEPARTMENT from the employee record table, and make a list of employees and
