@@ -1,4 +1,4 @@
-           SQL project
+           SQL project🎗️
 Project Title:
  SQLtech is a startup that works in the Data Science field
 
@@ -25,6 +25,7 @@ query
  2 Write a query to fetch EMP_ID, FIRST_NAME, LAST_NAME, GENDER, and
 DEPARTMENT from the employee record table, and make a list of employees and
 details of their department.
+
  Query
  use tamil;
  create table notnull21
@@ -43,11 +44,13 @@ DEPARTMENT, and EMP_RATING if the EMP_RATING is:
  greater than four
  between two and four
 less than two
+
 Query
  SELECT EMP_ID, FIRST_NAME, LAST_NAME, GENDER, DEPt, EMP_RATING
  FROM emp_record_table
  WHERE EMP_RATING < 2;
 greater than four
+
 Query
  SELECT EMP_ID, FIRST_NAME, LAST_NAME, GENDER, DEPt, EMP_RATING
 FROM emp_record_table
